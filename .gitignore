@@ -4,6 +4,8 @@ target/
 !**/src/test/**/target/
 .kotlin
 out/
+metrics_plot.py
+
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
