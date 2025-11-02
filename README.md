@@ -44,7 +44,7 @@ The project uses 9 test graphs organized into three size categories:
 | l2_medium | L | 50 | 120 | 0.05 | edge | 0 | Medium density |
 | l3_dense | L | 100 | 500 | 0.05 | edge | 0 | Dense large graph |
 
-![time_ns_all.png](out/figs/time_ns_all.png)
+<img width="960" height="720" alt="Image" src="https://github.com/user-attachments/assets/692ca6a4-b497-460d-96e9-ef6e3733f370" />
 
 ### Density Formula Derivation
 
